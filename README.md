@@ -1,2 +1,2 @@
 # ang-Collapsible
-Angular Collapsible Panel  
+Angular Collapsible Panel
