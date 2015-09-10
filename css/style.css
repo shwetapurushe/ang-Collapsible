@@ -1,0 +1,18 @@
+.collapseHeader{
+    padding: 5px 5px 0 15px;
+    margin: 15px 15px 0 15px;
+    height: 1%;
+    width: 90%;
+    font-size: 20px;
+    border: 1px solid #AAA4A8;
+    border-radius: 10px;
+    background-color: #a2c5fa;
+}
+.collapseBody{
+    border: 1px solid #2c9baa;
+    border-radius: 10px;
+    margin: 0 15px 15px 15px;
+    padding: 5px 5px 5px 15px;
+    height:10%;
+    width: 90%;
+}
